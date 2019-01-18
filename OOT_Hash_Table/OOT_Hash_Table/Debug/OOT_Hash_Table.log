@@ -1,0 +1,21 @@
+﻿  ProjectControl.cpp
+  Particle.cpp
+w:\year 2\oot_hash_table\oot_hash_table\particle.cpp(97): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+w:\year 2\oot_hash_table\oot_hash_table\particle.cpp(98): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Main.cpp
+w:\year 2\oot_hash_table\oot_hash_table\main.cpp(113): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+w:\year 2\oot_hash_table\oot_hash_table\main.cpp(118): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+w:\year 2\oot_hash_table\oot_hash_table\main.cpp(133): warning C4018: '<': signed/unsigned mismatch
+w:\year 2\oot_hash_table\oot_hash_table\main.cpp(138): warning C4018: '<': signed/unsigned mismatch
+w:\year 2\oot_hash_table\oot_hash_table\main.cpp(146): warning C4018: '<': signed/unsigned mismatch
+w:\year 2\oot_hash_table\oot_hash_table\main.cpp(148): warning C4018: '<': signed/unsigned mismatch
+w:\year 2\oot_hash_table\oot_hash_table\main.cpp(204): warning C4101: 'index': unreferenced local variable
+w:\year 2\oot_hash_table\oot_hash_table\main.cpp(216): warning C4101: 'index': unreferenced local variable
+  Index.cpp
+w:\year 2\oot_hash_table\oot_hash_table\index.cpp(59): warning C4018: '<': signed/unsigned mismatch
+w:\year 2\oot_hash_table\oot_hash_table\index.cpp(64): warning C4018: '<': signed/unsigned mismatch
+  Hash.cpp
+  Generating Code...
+w:\year 2\oot_hash_table\oot_hash_table\main.cpp(59): warning C4715: 'SDL_main': not all control paths return a value
+  OOT_Hash_Table.vcxproj -> W:\Year 2\OOT_Hash_Table\Debug\OOT_Hash_Table.exe
+  OOT_Hash_Table.vcxproj -> W:\Year 2\OOT_Hash_Table\Debug\OOT_Hash_Table.pdb (Full PDB)
